@@ -9,7 +9,7 @@ title:               Insight
 tagline:             'Just a Blog'
 description:         ''
 url:                 http://samarthbhargav.github.io
-baseurl:             ''
+baseurl:             'http://samarthbhargav.github.io'
 paginate:            5
 
 # About/contact
