@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Dictionaries in Python
+---
 
 Dictionaries or hashmaps are incredibly useful data structures in Python. In this blog post, I will briefly cover this data structure.
 
