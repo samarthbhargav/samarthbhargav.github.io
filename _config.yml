@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Insight
 tagline:             'Just a Blog'
-description:         ''
-url:                 http://samarthbhargav.github.io/
-baseurl:             'http://samarthbhargav.github.io/'
+description:         'None'
+url:                 http://samarthbhargav.github.io
+baseurl:             ''
 paginate:            5
 
 # About/contact
