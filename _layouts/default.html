@@ -21,10 +21,11 @@
 
       <div class="container content">
         {{ content }}
+
+        {% include disqus.html %}
       </div>
     </div>
 
-    {% include disqus.html %}
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
