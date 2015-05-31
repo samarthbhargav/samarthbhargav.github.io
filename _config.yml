@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               Insight
 tagline:             'Just a Blog'
 description:         ''
-url:                 http://samarthbhargav.github.io
-baseurl:             'http://samarthbhargav.github.io'
+url:                 http://samarthbhargav.github.io/
+baseurl:             'http://samarthbhargav.github.io/'
 paginate:            5
 
 # About/contact
