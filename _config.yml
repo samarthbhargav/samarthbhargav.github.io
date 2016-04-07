@@ -22,6 +22,6 @@ version:             1.0.0
 
 # Build Settings
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 gems: [jekyll-paginate, redcarpet, pygments.rb]
 pages_list: {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
