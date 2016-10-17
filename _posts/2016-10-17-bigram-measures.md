@@ -4,7 +4,7 @@ title: NLTK - Computing scores for Bigrams
 
 ---
 
-[Link to source](https://github.com/samarthbhargav/samarthbhargav.github.io/tree/master/nltk-bigram-scores/compute_scores.py)
+[Link to source](https://github.com/samarthbhargav/samarthbhargav.github.io/blob/master/code/nltk-bigram-scores/compute_scores.py)
 
 When you are working with text data, chances are you're very interested in bigrams in the data. A bigram is simply two words taken a a time.
 
