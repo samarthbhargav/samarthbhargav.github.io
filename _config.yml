@@ -21,7 +21,6 @@
 title: Samarth Bhargav
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate, Information and Language Processing Systems, University of Amsterdam
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

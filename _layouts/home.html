@@ -9,11 +9,49 @@ layout: default
 
   {{ content }}
 
-  PhD Candidate, Information and Language Processing Systems.
+  <div class="cv-section"> 
+    Email: s&lt;dot&gt;bhargav&lt;at&gt;uva&lt;dot&gt;nl  <br/>
+    <a href="https://twitter.com/samarthbhargav">Twitter</a> | <a href="https://scholar.google.com/citations?user=fDaZZZ4AAAAJ">Scholar</a> 
+    | <a href="https://github.com/samarthbhargav/">Github</a> 
+  </div>
 
-  Website in progress!
+  <div class="cv-section"> 
+    I'm a PhD Candidate at the Information Retrieval Lab (IRLab), located in Science Park, Amsterdam. 
+    My research interests include: Representation Learning, Disentanglement, Recommender Systems, Conversational AI, Transparent A.I Systems among other things. 
 
-  <!-- {%- if site.posts.size > 0 -%}
+  </div>
+  
+
+  <div class="cv-section">
+    <h2 class="post-list-heading">Education</h2>
+
+    <p>
+      <img src="" />
+      <b>PhD Candidate</b> <span class="grey">2019-</span> Information and Language Processing Systems, University of Amsterdam
+      <br/>Supervised by <a href="https://staff.fnwi.uva.nl/e.kanoulas/">Prof. dr. Evangelos Kanoulas</a>
+    </p>
+
+    <p>
+      <b>MSc in Artificial Intelligence</b> <span class="grey">2017-2019</span> University of Amsterdam
+      <br/><span class="dark-grey">Thesis:</span> Geometric Priors for Disentangling Representations, supervised by dr. Patrick Forre and Andy Keller
+    </p>
+
+    <p>
+      <b>Bachelor's Degree in Information Science</b> <span class="grey">2010-2014</span> Bachelor of Engineering, Information Science
+      <br/><span class="dark-grey">Thesis:</span> Natural Language Interfaces for Business Intelligence Systems
+    </p>
+  </div>
+
+  
+  
+  <div class="cv-section">
+    <h2 class="post-list-heading">Publications</h2>
+
+    See <a href="https://scholar.google.com/citations?user=fDaZZZ4AAAAJ">Scholar</a>
+    
+  </div>
+  
+  {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -33,6 +71,6 @@ layout: default
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%} -->
+  {%- endif -%}
 
 </div>
